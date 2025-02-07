@@ -7,12 +7,11 @@ demond slayer
 berserk
 
 
-
-Anime	Fondo	Texto principal	Títulos (h2)	Enlaces	Hover enlaces	Detalles
-Hajime no Ippo	Blanco (#FFFFFF) o Gris claro (#F5F5F5)	Negro (#000000)	Rojo (#D32F2F)	Azul (#1976D2)	Rojo (#D32F2F)	Amarillo (#FFC107)
-Monster	Gris oscuro (#2C3E50)	Blanco (#FFFFFF)	Rojo (#8B0000)	Gris claro (#ECF0F1)	Rojo (#8B0000)	Verde (#1E8449)
-Hunter x Hunter	Blanco (#FFFFFF) o Azul claro (#E3F2FD)	Negro (#000000)	Naranja (#FF5722)	Verde (#4CAF50)	Naranja (#FF5722)	Amarillo (#FFEB3B)
-El viaje de Chihiro	Beige claro (#F5F5DC)	Negro (#000000)	Rosa (#E91E63)	Verde (#2E7D32)	Rosa (#E91E63)	Dorado (#FFD700)
-Tokyo Ghoul	Negro (#000000)	Blanco (#FFFFFF)	Rojo (#B71C1C)	Blanco (#FFFFFF)	Rojo (#B71C1C)	Gris (#757575)
-Demon Slayer	Azul oscuro (#0D47A1)	Blanco (#FFFFFF)	Rojo (#E53935)	Blanco (#FFFFFF)	Rojo (#E53935)	Verde (#43A047)
-Berserk	Gris oscuro (#424242)	Blanco (#FFFFFF)	Rojo (#8B0000)	Blanco (#FFFFFF)	Rojo (#8B0000)	Dorado oscuro (#B8860B)
+Anime		Fondo					Texto principal		Títulos (h2)	 Enlaces		Hover enlaces		Detalles
+Hajime no Ippo	Blanco (#FFFFFF) o Gris claro (#F5F5F5)	Negro (#000000)		Rojo (#D32F2F)	 Azul (#1976D2)		Rojo (#D32F2F)		Amarillo (#FFC107)
+Monster	Gris 	oscuro (#2C3E50)			Blanco (#FFFFFF)	Rojo (#8B0000)	 Gris claro (#ECF0F1)	Rojo (#8B0000)		Verde (#1E8449)
+Hunter x Hunter	Blanco (#FFFFFF) o Azul claro (#E3F2FD)	Negro (#000000)		Naranja(#FF5722) Verde (#4CAF50)	Naranja (#FF5722)	Amarillo (#FFEB3B)
+El viaje 	Beige claro (#F5F5DC)			Negro (#000000)		Rosa (#E91E63)	Verde (#2E7D32)		Rosa (#E91E63)		Dorado (#FFD700)
+Tokyo Ghoul	Negro (#000000)				Blanco (#FFFFFF)	Rojo (#B71C1C)	Blanco (#FFFFFF)	Rojo (#B71C1C)		Gris (#757575)
+Demon Slayer	Azul oscuro (#0D47A1)			Blanco (#FFFFFF)	Rojo (#E53935)	Blanco (#FFFFFF)	Rojo (#E53935)		Verde (#43A047)
+Berserk		Gris oscuro (#424242)			Blanco (#FFFFFF)	Rojo (#8B0000)	Blanco (#FFFFFF)	Rojo (#8B0000)		Dorado oscuro (#B8860B)
